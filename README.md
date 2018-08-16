@@ -1,2 +1,1 @@
-# Hands-On-Deep-Learning-with-Apache-Spark
-Hands-On Deep Learning with Apache Spark by Packt publishing
+# The code for this repository is under development :construction_worker:
